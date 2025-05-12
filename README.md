@@ -2,26 +2,18 @@
 
 This repository contains a deep learning project for classifying images of garbage into categories such as metal, glass, paper, trash, cardboard, plastic, and white-glass using Convolutional Neural Networks (CNNs) and transfer learning with MobileNetV2.
 
-📁 Dataset
+## 📁 Dataset
+
 The dataset is structured into subfolders, each representing a different class:
+- metal
+- glass
+- paper
+- trash
+- cardboard
+- plastic
+- white-glass
 
-metal
-
-glass
-
-paper
-
-trash
-
-cardboard
-
-plastic
-
-white-glass
-
-📦 The dataset used in this project was sourced from Kaggle:
-Garbage Classification Dataset
-
+The dataset used in this project was sourced from Kaggle: [Garbage Classification Dataset](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
 
 ## 🧠 Model
 
