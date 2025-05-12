@@ -34,5 +34,41 @@ Model performance is evaluated using:
 
 Install dependencies with:
 
-```bash
+bash
 pip install -r requirements.txt
+
+
+### Key Libraries:
+- TensorFlow
+- Keras
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- OpenCV
+- scikit-learn
+
+## 🚀 Usage
+
+To train and evaluate the model, simply run the Jupyter Notebook:
+
+bash
+jupyter notebook meeee.ipynb
+
+
+## 📈 Results
+
+The notebook includes visualizations for:
+- Training/validation accuracy and loss
+- Confusion matrix
+- Classification metrics for each class
+
+## 📌 Notes
+
+- Uses MobileNetV2 for feature extraction.
+- Includes data augmentation to reduce overfitting.
+- Designed to help automate waste sorting through image classification.
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
