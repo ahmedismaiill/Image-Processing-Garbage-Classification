@@ -13,7 +13,7 @@ The dataset is structured into subfolders, each representing a different class:
 - plastic
 - white-glass
 
-The dataset used in this project was sourced from Kaggle: [Garbage Classification Dataset]([https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification))
+The dataset used in this project was sourced from Kaggle: [Garbage Classification Dataset]([[https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification))
 
 ## 🧠 Model
 
